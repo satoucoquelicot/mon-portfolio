@@ -1,0 +1,19 @@
+html, body {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+h2{
+    margin-left: 40px;
+}
+body {
+    color: #fff;
+    font-family: Arial, sans-serif;
+    min-height: 100vh;
+    min-width: 100vw;
+    background-image: url('image/wallpaper2.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+}
