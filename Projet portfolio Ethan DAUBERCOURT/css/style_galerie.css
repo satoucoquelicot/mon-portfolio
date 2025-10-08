@@ -27,7 +27,6 @@ figure {
     justify-content: space-between;
     width: auto;
     margin: 10px;
-    border: 2px solid black;
     border-radius: 10px;
     overflow: hidden;
     box-shadow: 0 4px 8px rgb(68, 0, 255);

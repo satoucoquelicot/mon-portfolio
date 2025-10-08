@@ -1,0 +1,27 @@
+.projet h2 {
+    display: block;
+    width: 100%;
+    margin-left: 50px;
+}
+.gallery-projet {
+    display: flex;
+    gap:15px;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 8px;;
+    background-image: url('../image/bois.jpg');
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+
+.item-projet img {
+    border-radius: 15%;
+    max-width: 300px;
+    height: 250px;
+    display: block;
+    margin: 10px 0;
+    
+}
+
+
+
